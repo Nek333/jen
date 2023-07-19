@@ -1,1 +1,1 @@
-SELECT * FROM fr.seq_end LIMIT 1;
+SELECT * FROM fr.seq_end LIMIT 2;
